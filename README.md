@@ -34,5 +34,6 @@ At the conclusion of this program, the producer will have produced ten integers 
 hold two integer values at a time.
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 I provided the example of two terminals where one is producing and one is consuming with the code in the screenshot provided.
 
