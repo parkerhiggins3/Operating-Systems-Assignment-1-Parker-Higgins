@@ -32,3 +32,7 @@ The consumer.elf program can be terminated by using Ctrl + C in the terminal.
 
 At the conclusion of this program, the producer will have produced ten integers and the consumer will consume all ten using a memory buffer that can
 hold two integer values at a time.
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+I provided the example of two terminals where one is producing and one is consuming with the code in the screenshot provided.
+
