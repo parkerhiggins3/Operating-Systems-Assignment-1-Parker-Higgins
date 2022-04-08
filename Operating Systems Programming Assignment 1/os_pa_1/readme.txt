@@ -16,8 +16,6 @@ Documentation:
 
 For starters, I decided to use a Makefile in order to compile the files I am using.
 
-The destroy files are made in order to test the shared memory when I was writing the program and should be disregarded.
-
 The table.h and table.c files are made to hold the shared memory and the functions that both the producer and consumer use.
 
 When the producer is run, it writes a random number to the memory location.
