@@ -15,6 +15,7 @@ To run the producer, you use:
 This will start a loop that writes to the shared memory. Now you will see that the consumer is reading in what the producer is writing.
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 Documentation:
 
 For starters, I decided to use a Makefile in order to compile the files I am using.
